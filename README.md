@@ -4,7 +4,6 @@ This is a **static, non-responsive TourGuide website** built using **HTML** and 
 It was created as a practice project to strengthen my CSS fundamentals and experiment with layouts and styling without using any frameworks.  
 
 ## Features  
-- Static layout with multiple sections (Home, Destinations, Packages, Contact)  
 - Designed with **pure CSS** (no frameworks)  
 - Focused on learning **positioning, typography, and styling**  
 - Non-responsive design (desktop view only)  
